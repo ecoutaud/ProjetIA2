@@ -11,6 +11,6 @@ Afin de vérifier cette hypothèse nous avons choisi de faire une matrice de cor
 L'hypothèse du kilométrage et de la puissance sont validés (plus d'informations sont en commentaire du script "Regression_Projet2_Couteaud_Cros_LeCorre.ipynb") tandis qu'un doute est identifié pour l'année de fabrication.
 Enfin, nous avons fais un modèle de machine learning de régréssion linéaire basique afin d'aa nouveau confronter nos résultats. Là encoreLe kilométrage et la puissance sont notés comme significatifs tazndis que l'année de fabrication semble un peu moins certaine. 
 
-On regarde ainsi comment se comporte le prix selon d'autres techniques d’analyse de données et de machine learning. 
+On regarde ainsi afin de confirmer ou d'infirmer ces hypothèses comment se comporte le prix selon d'autres techniques d’analyse de données et de machine learning. 
 
 ## 
