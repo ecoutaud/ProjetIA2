@@ -1,4 +1,5 @@
 # ProjetIA2
+Elsa Coutaud, Esther Cros, Mallory Le Corre
 
 ## Régréssion du prix des voitures : 
 
