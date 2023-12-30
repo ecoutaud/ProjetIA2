@@ -1,6 +1,6 @@
-## ProjetIA2
+# ProjetIA2
 
-# Régréssion du prix des voitures : 
+## Régréssion du prix des voitures : 
 
 Plusieurs méthodes ont été employé pour évaluer l'impact des différents facteurs dans le prix des voitures. 
 
@@ -12,4 +12,4 @@ Enfin, nous avons fais un modèle de machine learning de régréssion linéaire 
 
 On regarde ainsi comment se comporte le prix selon d'autres techniques d’analyse de données et de machine learning. 
 
-# 
+## 
